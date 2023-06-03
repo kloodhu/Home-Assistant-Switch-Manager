@@ -11,7 +11,7 @@ buttons:
       - key: property_key
         value: '001'
     actions:
-      - title: tap
+      - title: press
         conditions:
           - key: value
             value: KeyPressed
@@ -19,7 +19,7 @@ buttons:
         conditions:
           - key: value
             value: KeyHeldDown
-      - title: released
+      - title: hold (released)
         conditions:
           - key: value
             value: KeyReleased
@@ -28,7 +28,7 @@ buttons:
       - key: property_key
         value: '002'
     actions:
-      - title: tap
+      - title: press
         conditions:
           - key: value
             value: KeyPressed
@@ -36,7 +36,7 @@ buttons:
         conditions:
           - key: value
             value: KeyHeldDown
-      - title: released
+      - title: hold (released)
         conditions:
           - key: value
             value: KeyReleased
@@ -45,7 +45,7 @@ buttons:
       - key: property_key
         value: '003'
     actions:
-      - title: tap
+      - title: press
         conditions:
           - key: value
             value: KeyPressed
@@ -53,7 +53,7 @@ buttons:
         conditions:
           - key: value
             value: KeyHeldDown
-      - title: released
+      - title: hold (released)
         conditions:
           - key: value
             value: KeyReleased
@@ -62,7 +62,7 @@ buttons:
       - key: property_key
         value: '004'
     actions:
-      - title: tap
+      - title: press
         conditions:
           - key: value
             value: KeyPressed
@@ -70,7 +70,7 @@ buttons:
         conditions:
           - key: value
             value: KeyHeldDown
-      - title: released
+      - title: hold (released)
         conditions:
           - key: value
             value: KeyReleased
@@ -79,7 +79,7 @@ buttons:
       - key: property_key
         value: '005'
     actions:
-      - title: tap
+      - title: press
         conditions:
           - key: value
             value: KeyPressed
@@ -87,7 +87,7 @@ buttons:
         conditions:
           - key: value
             value: KeyHeldDown
-      - title: released
+      - title: hold (released)
         conditions:
           - key: value
             value: KeyReleased
@@ -96,7 +96,7 @@ buttons:
       - key: property_key
         value: '006'
     actions:
-      - title: tap
+      - title: press
         conditions:
           - key: value
             value: KeyPressed
@@ -104,7 +104,7 @@ buttons:
         conditions:
           - key: value
             value: KeyHeldDown
-      - title: released
+      - title: hold (released)
         conditions:
           - key: value
             value: KeyReleased
