@@ -15,6 +15,14 @@ buttons:
         conditions:
           - key: value
             value: KeyPressed
+      - title: press 2x
+        conditions:
+          - key: value
+            value: KeyPressed2x
+      - title: press 3x
+        conditions:
+          - key: value
+            value: KeyPressed3x
       - title: hold
         conditions:
           - key: value
@@ -32,6 +40,14 @@ buttons:
         conditions:
           - key: value
             value: KeyPressed
+      - title: press 2x
+        conditions:
+          - key: value
+            value: KeyPressed2x
+      - title: press 3x
+        conditions:
+          - key: value
+            value: KeyPressed3x
       - title: hold
         conditions:
           - key: value
@@ -49,6 +65,14 @@ buttons:
         conditions:
           - key: value
             value: KeyPressed
+      - title: press 2x
+        conditions:
+          - key: value
+            value: KeyPressed2x
+      - title: press 3x
+        conditions:
+          - key: value
+            value: KeyPressed3x
       - title: hold
         conditions:
           - key: value
@@ -66,6 +90,14 @@ buttons:
         conditions:
           - key: value
             value: KeyPressed
+      - title: press 2x
+        conditions:
+          - key: value
+            value: KeyPressed2x
+      - title: press 3x
+        conditions:
+          - key: value
+            value: KeyPressed3x
       - title: hold
         conditions:
           - key: value
@@ -83,6 +115,14 @@ buttons:
         conditions:
           - key: value
             value: KeyPressed
+      - title: press 2x
+        conditions:
+          - key: value
+            value: KeyPressed2x
+      - title: press 3x
+        conditions:
+          - key: value
+            value: KeyPressed3x
       - title: hold
         conditions:
           - key: value
@@ -100,6 +140,14 @@ buttons:
         conditions:
           - key: value
             value: KeyPressed
+      - title: press 2x
+        conditions:
+          - key: value
+            value: KeyPressed2x
+      - title: press 3x
+        conditions:
+          - key: value
+            value: KeyPressed3x
       - title: hold
         conditions:
           - key: value
